@@ -1,3 +1,4 @@
-NO>REG	: 1820010201
+NO REG	: 1820010201
 Nama	: Sheilla
 Jurusan : CCIT-TI PNJ
+Kelas	: 3SC1
