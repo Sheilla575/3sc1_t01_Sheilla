@@ -1,2 +1,3 @@
 NO>REG	: 1820010201
 Nama	: Sheilla
+Jurusan : CCIT-TI PNJ
