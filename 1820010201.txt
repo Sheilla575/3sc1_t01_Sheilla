@@ -1,0 +1,5 @@
+NO REG	: 1820010201
+Nama	: Sheilla
+Jurusan : CCIT-TI PNJ
+Angkatan : 2018
+Kelas	: 3SC1
